@@ -9,6 +9,8 @@ You here can see that not only face or the eye that have been detected , it’s 
 
 If you’re wearing eyeglasses like me you can see that the accuracy isn't the best and it may catch your cheeks as your eyes haha.
 
-thank U ^_^
+You’ll just open Face_Detection.ipynb file with jupyter Notebook and you’ll see the code.
 
-## 
+Also attached here the "After" and "Before" smile detection pictures.
+
+thank U ^_^
